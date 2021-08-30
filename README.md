@@ -1,0 +1,1 @@
+Script to detect CVE-2021-31195 by Frank breedijk of DIVD.nl
